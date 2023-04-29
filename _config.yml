@@ -1,1 +1,9 @@
 remote_theme: coogie/oscailte
+
+oscailte:
+  strings:
+    skip_to_main_content: "Skip to main content"
+    hero_title: ""
+    recent_posts: "Recent posts"
+    view_all: "View all"
+    read_full: "Read full"
