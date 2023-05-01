@@ -1,0 +1,9 @@
+main:
+  - title: "Home Assistant"
+    url: /ha
+
+docs:
+  - title: Home Assistant
+    children:
+      - title: "Irrigation"
+        url: /ha/irrigation
